@@ -1,4 +1,4 @@
-# Hotel Booking & Messaging App
+# Hotel Booking App
 
 ## Description
 
